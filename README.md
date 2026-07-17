@@ -103,4 +103,3 @@ Universitas Amikom Yogyakarta
 
 ---
 
-⭐ Jika repository ini bermanfaat, jangan lupa berikan **Star**.
